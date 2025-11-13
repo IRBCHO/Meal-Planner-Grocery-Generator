@@ -100,6 +100,7 @@ Optionally opens **mealime.com** for more recipes.
 
 ## 📁 Project Structure  
 
+```text
 Meal-Planner-Grocery-Generator/
 │── meal_planner.py          # Main application file
 │── file1.txt                # Meal descriptions database
@@ -111,6 +112,7 @@ Meal-Planner-Grocery-Generator/
 │     ├── IMG_9205.jpeg
 │     ├── ...
 
+```
 ---
 
 ## How to Run

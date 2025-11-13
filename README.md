@@ -1,30 +1,131 @@
-# 🍽️ Meal Planner and Grocery Generator
+🥗 Meal Planner & Grocery Generator
+by Benchaphorn (Irene) Cho
 
-This Python program helps users plan meals for a whole week (3 meals per day), calculates the total cost & calorie count, and checks if the plan fits within a budget. It also generates a grocery list, suggests random healthy snacks, saves favorite meals, and links to external recipe resources.
+A Python desktop application built with Tkinter that helps users plan meals for a full week (3 meals per day), calculates cost and calories, generates a grocery list, suggests healthy snacks, saves favorite meals, and optionally opens a recipe website for more ideas.
 
----
+This project demonstrates GUI development, file handling, data structures, randomization, and user-driven workflow design — perfect for showcasing early software development skills.
 
-## ✨ Features
-- ✅ Weekly meal plan (7 days × 3 meals/day)
-- ✅ Supports **diet preferences** (Low-carb / Low-sugar / None)
-- ✅ Calculates **total weekly cost & calories**
-- ✅ Checks if the plan is within a user-defined **budget**
-- ✅ Generates a **grocery shopping list**
-- ✅ Random **healthy snack suggestion**
-- ✅ Save & view **favorite meals**
-- ✅ Time-based **greetings**
-- ✅ Links to **external recipes**
 
----
+✨ Features
+✅ User Input Prompts
 
-## 🛠️ Technologies Used
-- **Python 3**
-- **Tkinter** (for GUI pop-ups)
-- **Datetime** (for greeting by time of day)
-- **Webbrowser** (for opening external recipe sites)
+Enter name
+Set weekly grocery budget
+Choose diet type: Low-carb | Low-sugar | None
 
----
+✅ Generates a Full 7-Day Meal Plan
 
-## 📂 Project Structure
- Meal-Planner-Grocery-Generator
-A meal planner and can also calculates calories for each meal ( Python)
+Breakfast, lunch, dinner
+Cost per meal
+Calories per meal
+Total weekly cost & calories
+Budget validation
+
+✅ Grocery List Generator
+
+Collects ingredients from all meals
+Removes duplicates
+Shows total item count
+Displays full list
+
+✅ Healthy Snack Suggestions
+Randomly recommends a healthy snack.
+
+✅ Favorite Meals
+Add a favorite meal
+Stores in favorite.txt file
+
+✅ Meal Descriptions
+Reads detailed descriptions from file1.txt
+(displays in a scrollable Tkinter popup window)
+
+✅ External Resource Link
+Optionally opens mealime.com for more recipes.
+
+
+Below are the real screenshots from the app running on macOS:
+
+
+
+User Name Input
+
+
+Budget Input
+
+Diet Preference
+
+Generated Weekly Meal Plan
+
+Grocery Item Count
+
+Grocery List
+
+Healthy Snack Suggestion
+
+Add Favorite Meal
+
+Favorite Confirmation
+
+Open Meal Descriptions
+
+Meal Description Window
+
+Open External Recipes
+
+Recipes Website Opened
+
+Another Snack Suggestion
+
+Final Thank You Message
+
+🛠 Technologies Used
+
+Python 3
+
+Tkinter (GUI)
+
+Random
+
+Datetime
+
+File I/O
+
+Webbrowser module
+
+📁 Project Structure
+Meal-Planner/
+│── projectPhrase3.py         # Main Python script
+│── file1.txt                 # Meal descriptions
+│── favorite.txt              # Saved favorite meals
+│── screenshots/              # All captured images
+│── README.md                 # Documentation
+
+▶️ How to Run
+
+Install Python 3
+
+Ensure file1.txt is in the same directory
+
+Run the project:
+
+python3 projectPhrase3.py
+
+
+The GUI windows will pop up immediately.
+
+🚀 Future Enhancements
+
+Add calorie goals
+
+Add vegetarian / keto diet modes
+
+Add “export meal plan to PDF/CSV” feature
+
+Add dark mode
+
+Add a shopping cost estimator by store (Walmart, Costco, etc.)
+
+👩🏻‍💻 Author
+
+Benchaphorn (Irene) Cho
+GitHub: https://github.com/IRBCHO

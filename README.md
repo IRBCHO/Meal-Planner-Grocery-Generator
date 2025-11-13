@@ -129,19 +129,3 @@ python3 meal_planner.py
 
 Benchaphorn (Irene) Cho
 GitHub: https://github.com/IRBCHO
-
-
----
-
-# 🎉 You’re done!
-Your README will now look **clean, structured, professional**, and recruiter-ready.
-
-If you want, I can also help you:
-
-✅ Write a strong project description for your **resume**  
-or  
-✅ Add a “Future Enhancements” section  
-or  
-✅ Add beautiful badges for Python, Tkinter, etc.
-
-Just tell me!

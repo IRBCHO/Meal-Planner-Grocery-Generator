@@ -130,39 +130,5 @@ Now your root will show just:
 - `README.md`
 - `screenshots/` folder
 
-Much cleaner.
 
----
-
-## 4️⃣ Step 3 – Improve repo “metadata”
-
-On the right side of your repo page you have: **0 stars, 0 forks, Languages: Python 100%** etc. :contentReference[oaicite:4]{index=4}  
-
-Do this:
-
-1. At the top, under the repo name, click the **gear icon** (Settings) for description.
-2. In “Description” put something more polished, e.g.:
-
-   > “Tkinter-based weekly meal planner that calculates cost & calories and generates a grocery list (Python).”
-
-3. In “Topics” add:
-   - `python`
-   - `tkinter`
-   - `meal-planner`
-   - `gui-application`
-   - `beginner-project`
-4. Optional: add a **LICENSE** (MIT). GitHub can auto-generate it under **Add file → Create new file → “LICENSE” → “Choose a license template”**.
-
-This helps recruiters and search.
-
----
-
-## 5️⃣ Step 4 – (Optional later) Rename / refactor main file
-
-Not urgent, but nicer:
-
-- Rename `projectPhrase3nene.py` → `meal_planner.py`.
-- Update README “How to Run” to use:
-
-  ```bash
   python3 meal_planner.py

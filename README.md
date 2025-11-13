@@ -1,16 +1,9 @@
 # 🥗 Meal Planner & Grocery Generator  
 by **Benchaphorn (Irene) Cho**
 
-A Python **desktop application** built with **Tkinter** that helps users plan meals for a full week (3 meals per day), calculate total cost and calories, generate a grocery list, suggest healthy snacks, save favorite meals, and optionally open a recipe website for more ideas.
+A Python desktop application built with **Tkinter** that helps users plan meals for a full week (3 meals per day), calculates total cost and calories, generates a grocery list, suggests healthy snacks, saves favorite meals, and optionally opens a recipe website for more ideas.
 
-This project demonstrates:
-- GUI development  
-- File handling  
-- Python dictionaries & data structures  
-- Randomization  
-- Event-driven workflow design  
-
-Perfect for showcasing early software development skills.
+This project demonstrates GUI development, file handling, dictionaries, randomization, and user-driven workflow design — perfect for showcasing early software development skills.
 
 ---
 
@@ -21,67 +14,91 @@ Perfect for showcasing early software development skills.
 - Set a weekly grocery budget  
 - Choose diet type: **Low-Carb**, **Low-Sugar**, or **None**
 
-### ✅ 7-Day Meal Plan Generator
-- Breakfast, lunch, and dinner for all 7 days  
+### ✅ Generates a Full 7-Day Meal Plan
+- Breakfast, lunch, and dinner  
 - Cost per meal  
 - Calories per meal  
-- Total weekly cost & calorie calculation  
-- Alerts if the total cost exceeds your budget
+- Total weekly cost & calories  
+- Budget validation
 
 ### ✅ Grocery List Generator
-- Pulls ingredients from all meals  
-- Removes duplicate items  
-- Displays total ingredient count  
-- Shows full grocery list in a scrollable window  
+- Collects ingredients from all meals  
+- Removes duplicates  
+- Displays total item count  
+- Generates full grocery list
 
 ### ✅ Healthy Snack Suggestions  
-A random healthy snack appears whenever requested.
+Randomly recommends a healthy snack for the day.
 
-### ✅ Favorite Meals
-- Add favorite meals with one click  
-- Automatically saved to **favorite.txt**  
+### ✅ Favorite Meals  
+- Add favorite meals  
+- Auto-saves to **favorite.txt**
 
-### ✅ Meal Descriptions
-- Reads detailed meal descriptions from **file1.txt**  
-- Displays descriptions in a scrollable Tkinter popup window  
+### ✅ Meal Descriptions  
+Reads details from **file1.txt** and displays them in a **scrollable Tkinter popup window**.
 
-### ✅ External Recipe Website  
-- Opens **mealime.com** (or any recipe website) using Python’s `webbrowser` module  
-
----
-
-## 🖼 Screenshots
-
-*(Place your screenshots in the root folder or inside a /screenshots folder and update the paths)*
-
-![Name Input](./IMG_9202.jpeg)
-![Budget Input](./IMG_9204.jpeg)
-![Diet Choice](./IMG_9205.jpeg)
-![Weekly Plan](./IMG_9208.jpeg)
-![Ingredient Count](./IMG_9209.jpeg)
-![Grocery List](./IMG_9210.jpeg)
-![Snack Suggestion](./IMG_9211.jpeg)
-![Add Favorite](./IMG_9212.jpeg)
-![Favorite Saved](./IMG_9213.jpeg)
-![Meal Description](./IMG_9214.jpeg)
-![Recipe Website](./IMG_9215.jpeg)
-![Another Snack](./IMG_9216.jpeg)
-![Thank You Screen](./IMG_9219.jpeg)
+### ✅ External Recipe Link  
+Optionally opens **mealime.com** for more recipes.
 
 ---
 
-## 🧰 Technologies Used
+## 📸 Application Screenshots  
 
-- **Python 3**
-- **Tkinter** for GUI  
-- `random`  
-- `datetime`  
-- `webbrowser`  
-- File I/O operations  
+### 👤 User Name Input  
+![User Name Input](screenshots/IMG_9202.jpeg)
+
+### 💰 Budget Input  
+![Budget Input](screenshots/IMG_9204.jpeg)
+
+### 🥗 Diet Preference  
+![Diet Preference](screenshots/IMG_9205.jpeg)
+
+### 🍽 Generated Weekly Meal Plan  
+![Meal Plan](screenshots/IMG_9208.jpeg)
+
+### 🔢 Grocery Item Count  
+![Item Count](screenshots/IMG_9209.jpeg)
+
+### 🛒 Grocery List  
+![Grocery List](screenshots/IMG_9210.jpeg)
+
+### 🥕 Healthy Snack Suggestion  
+![Snack Suggestion](screenshots/IMG_9211.jpeg)
+
+### ⭐ Add Favorite Meal  
+![Add Favorite](screenshots/IMG_9212.jpeg)
+
+### ✅ Favorite Confirmation  
+![Favorite Confirmation](screenshots/IMG_9213.jpeg)
+
+### 📄 Open Meal Descriptions  
+![Open File](screenshots/IMG_9214.jpeg)
+
+### 📖 Meal Description Window  
+![Meal Details](screenshots/IMG_9215.jpeg)
+
+### 🌐 Open External Recipes  
+![External Recipes](screenshots/IMG_9216.jpeg)
+
+### 🧃 Additional Snack Suggestion  
+![Another Snack](screenshots/IMG_9219.jpeg)
+
+### 🙌 Final Thank You Message  
+![Thank You](screenshots/IMG_9220.jpeg)
 
 ---
 
-## 📁 Project Structure
+## 🛠 Technologies Used
+- Python 3  
+- Tkinter (GUI)  
+- Random module  
+- Datetime  
+- File I/O  
+- Webbrowser module  
+
+---
+
+## 📁 Project Structure  
 
 ```text
 Meal-Planner-Grocery-Generator/
@@ -93,24 +110,3 @@ Meal-Planner-Grocery-Generator/
 │── IMG_9204.jpeg
 │── IMG_9205.jpeg
 │── ... (other images)
-
-▶️ How to Run
-
-1. Install Python 3 from https://www.python.org/
-
-2. Download or clone this repository:
-git clone https://github.com/IRBCHO/Meal-Planner-Grocery-Generator.git
-
-3. Open a terminal inside the project folder.
-
-4. Run the application:
-python3 Mealplaner.py
-
-
-👩🏻‍💻 Author
-
-Benchaphorn (Irene) Cho
-GitHub: IRBCHO
-
-⭐ If you like this project
-Please consider starring the repo — it helps visibility!

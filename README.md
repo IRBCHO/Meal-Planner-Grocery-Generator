@@ -44,49 +44,48 @@ Optionally opens mealime.com for more recipes.
 
 
 Below are the real screenshots from the app running on macOS:
-## 📸 Screenshots
 
-### 👤 User Name Input
-![Name Input](IMG_9202.jpeg)
+User Name Input
+!{App Screenshorts](Screenshorts/IMG_9202.jpeg)
 
-### 💰 Budget Input
-![Budget Input](IMG_9204.jpeg)
+Budget Input
 
-### 🥗 Diet Preference
-![Diet Preference](IMG_9205.jpeg)
 
-### 🍽 Generated Weekly Meal Plan
-![Meal Plan](IMG_9208.jpeg)
+Diet Preference
 
-### 🔢 Grocery Item Count
-![Item Count](IMG_9209.jpeg)
 
-### 🛒 Grocery List
-![Grocery List](IMG_9210.jpeg)
+Generated Weekly Meal Plan
 
-### 🥕 Healthy Snack Suggestion
-![Snack Suggestion](IMG_9211.jpeg)
 
-### ⭐ Add Favorite Meal
-![Add Favorite](IMG_9212.jpeg)
+Grocery Item Count
 
-### ✅ Favorite Confirmation
-![Favorite Confirm](IMG_9213.jpeg)
 
-### 📄 Open Meal Descriptions
-![Open File](IMG_9214.jpeg)
+Grocery List
 
-### 📖 Meal Description Window
-![Meal Details](IMG_9215.jpeg)
 
-### 🌐 Open External Recipes
-![Open Website](IMG_9216.jpeg)
+Healthy Snack Suggestion
 
-### 🧃 Another Snack Suggestion
-![Another Snack](IMG_9219.jpeg)
 
-### 🙌 Final Thank You Message
-![Thank You](IMG_9220.jpeg)
+Add Favorite Meal
+
+
+Favorite Confirmation
+
+
+Open Meal Descriptions
+
+
+ Meal Description Window
+
+
+Open External Recipes
+
+
+Another Snack Suggestion
+
+
+Final Thank You Message
+
 
 
 🛠 Technologies Used

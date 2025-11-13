@@ -110,3 +110,16 @@ Meal-Planner-Grocery-Generator/
 │── IMG_9204.jpeg
 │── IMG_9205.jpeg
 │── ... (other images)
+
+
+## How to Run
+1. Install Python 3  
+2. Download or clone this repository  
+3. Make sure meal_planner.py, file1.txt, and favorite.txt are in the same folder  
+4. Run the program:
+   python3 meal_planner.py
+
+👩🏻‍💻 Author
+
+Benchaphorn (Irene) Cho
+GitHub: IRBCHO

@@ -1,16 +1,16 @@
 # 🥗 Meal Planner & Grocery Generator  
 by **Benchaphorn (Irene) Cho**
 
-A Python desktop application built with **Tkinter** that helps users:
+A Python **desktop application** built with **Tkinter** that helps users plan meals for a full week (3 meals per day), calculate total cost and calories, generate a grocery list, suggest healthy snacks, save favorite meals, and optionally open a recipe website for more ideas.
 
-- Plan meals for a full week (3 meals per day)
-- Calculate cost and calories for each meal
-- Generate a full grocery list
-- Suggest healthy snacks
-- Save favorite meals
-- Open a recipe website for more ideas
+This project demonstrates:
+- GUI development  
+- File handling  
+- Python dictionaries & data structures  
+- Randomization  
+- Event-driven workflow design  
 
-This project demonstrates GUI development, file handling, data structures (lists/dictionaries), randomization, and user-driven workflow design — great for showcasing early software development skills.
+Perfect for showcasing early software development skills.
 
 ---
 
@@ -19,65 +19,65 @@ This project demonstrates GUI development, file handling, data structures (lists
 ### ✅ User Input Prompts
 - Enter your name  
 - Set a weekly grocery budget  
-- Choose diet type: **Low-carb**, **Low-sugar**, or **None**
+- Choose diet type: **Low-Carb**, **Low-Sugar**, or **None**
 
 ### ✅ 7-Day Meal Plan Generator
-- Breakfast, lunch, and dinner for 7 days  
+- Breakfast, lunch, and dinner for all 7 days  
 - Cost per meal  
 - Calories per meal  
-- Total weekly cost & calories  
-- Budget validation (tells you if you are over budget)
+- Total weekly cost & calorie calculation  
+- Alerts if the total cost exceeds your budget
 
 ### ✅ Grocery List Generator
-- Collects ingredients from all meals  
-- Removes duplicates  
-- Shows total item count  
-- Displays the full grocery list in a scrollable window
+- Pulls ingredients from all meals  
+- Removes duplicate items  
+- Displays total ingredient count  
+- Shows full grocery list in a scrollable window  
 
-### ✅ Healthy Snack Suggestions
-- Randomly recommends a healthy snack when requested
+### ✅ Healthy Snack Suggestions  
+A random healthy snack appears whenever requested.
 
 ### ✅ Favorite Meals
-- Add a favorite meal  
-- Saves to `favorite.txt` for future reference
+- Add favorite meals with one click  
+- Automatically saved to **favorite.txt**  
 
 ### ✅ Meal Descriptions
-- Reads detailed descriptions from `file1.txt`  
-- Displays them in a **scrollable Tkinter popup window**
+- Reads detailed meal descriptions from **file1.txt**  
+- Displays descriptions in a scrollable Tkinter popup window  
 
-### ✅ External Recipe Website
-- Optionally opens **mealime.com** (or another recipe site) for more ideas using the `webbrowser` module
+### ✅ External Recipe Website  
+- Opens **mealime.com** (or any recipe website) using Python’s `webbrowser` module  
 
 ---
 
 ## 🖼 Screenshots
 
-Below are real screenshots from the app running on macOS:
+*(Place your screenshots in the root folder or inside a /screenshots folder and update the paths)*
 
-![User Name Input](./IMG_9202.jpeg)
+![Name Input](./IMG_9202.jpeg)
 ![Budget Input](./IMG_9204.jpeg)
-![Diet Preference](./IMG_9205.jpeg)
-![Generated Weekly Meal Plan](./IMG_9208.jpeg)
-![Grocery Item Count](./IMG_9209.jpeg)
+![Diet Choice](./IMG_9205.jpeg)
+![Weekly Plan](./IMG_9208.jpeg)
+![Ingredient Count](./IMG_9209.jpeg)
 ![Grocery List](./IMG_9210.jpeg)
-![Healthy Snack Suggestion](./IMG_9211.jpeg)
-![Add Favorite Meal](./IMG_9212.jpeg)
-![Favorite Confirmation](./IMG_9213.jpeg)
-![Meal Description Window](./IMG_9214.jpeg)
-![External Recipes Website](./IMG_9215.jpeg)
-![Another Snack Suggestion](./IMG_9216.jpeg)
-![Final Thank You Message](./IMG_9219.jpeg)
+![Snack Suggestion](./IMG_9211.jpeg)
+![Add Favorite](./IMG_9212.jpeg)
+![Favorite Saved](./IMG_9213.jpeg)
+![Meal Description](./IMG_9214.jpeg)
+![Recipe Website](./IMG_9215.jpeg)
+![Another Snack](./IMG_9216.jpeg)
+![Thank You Screen](./IMG_9219.jpeg)
 
 ---
 
 ## 🧰 Technologies Used
 
-- Python 3  
-- Tkinter (GUI)  
+- **Python 3**
+- **Tkinter** for GUI  
 - `random`  
 - `datetime`  
-- File I/O (reading/writing `.txt` files)  
-- `webbrowser` module  
+- `webbrowser`  
+- File I/O operations  
 
 ---
 
@@ -85,12 +85,11 @@ Below are real screenshots from the app running on macOS:
 
 ```text
 Meal-Planner-Grocery-Generator/
-│── projectPhrase3nene.py   # Main Python script
-│── file1.txt               # Meal descriptions
-│── favorite.txt            # Saved favorite meals
-│── README.md               # Documentation
-│── IMG_9202.jpeg           # Screenshots (used in README)
+│── projectPhrase3nene.py       # Main application file
+│── file1.txt                   # Meal descriptions database
+│── favorite.txt                # Stores user favorite meals
+│── README.md                   # Project documentation
+│── IMG_9202.jpeg               # Screenshots
 │── IMG_9204.jpeg
 │── IMG_9205.jpeg
-│── ...
-
+│── ... (other images)

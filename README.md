@@ -115,8 +115,6 @@ Meal-Planner-Grocery-Generator/
 ```
 ---
 
----
-
 ## ▶️ How to Run
 
 ### 1. Install Python 3  
@@ -128,7 +126,6 @@ git clone https://github.com/IRBCHO/Meal-Planner-Grocery-Generator.git
 cd Meal-Planner-Grocery-Generator
 
 ```
-
 
 
 👩🏻‍💻 Author

@@ -100,7 +100,7 @@ Optionally opens **mealime.com** for more recipes.
 
 ## 📁 Project Structure  
 
-```text
+
 Meal-Planner-Grocery-Generator/
 │── projectPhrase3nene.py       # Main application file
 │── file1.txt                   # Meal descriptions database

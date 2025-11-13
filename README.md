@@ -1,10 +1,9 @@
 # 🥗 Meal Planner & Grocery Generator  
 by **Benchaphorn (Irene) Cho**
 
-A Python desktop application built with **Tkinter** that helps users plan meals for a full week (3 meals per day), calculates total cost and calories, generates a grocery list, suggests healthy snacks, saves favorite meals, and optionally opens a recipe website for more ideas.
+This is a Python desktop application built with Tkinter that helps users plan meals for a full week (3 meals per day). It automatically calculates total cost and calories, generates a consolidated grocery list, suggests healthy snacks, saves favorite meals, and can optionally open recipe websites for additional inspiration.
 
-This project demonstrates GUI development, file handling, dictionaries, randomization, and user-driven workflow design — perfect for showcasing early software development skills.
-
+I originally created this project for my Python class and had a great time learning new concepts—especially GUI development, file handling, Python dictionaries, randomization, and user-driven workflow design. It’s a fun and practical project that highlights my early software development skills.
 ---
 
 ## ✨ Features

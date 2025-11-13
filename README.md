@@ -44,52 +44,59 @@ Optionally opens mealime.com for more recipes.
 
 
 Below are the real screenshots from the app running on macOS:
+## 📸 Screenshots
 
+### 👤 User Name Input
+![Name Input](IMG_9202.jpeg)
 
+### 💰 Budget Input
+![Budget Input](IMG_9204.jpeg)
 
-User Name Input
+### 🥗 Diet Preference
+![Diet Preference](IMG_9205.jpeg)
 
+### 🍽 Generated Weekly Meal Plan
+![Meal Plan](IMG_9208.jpeg)
 
-Budget Input
+### 🔢 Grocery Item Count
+![Item Count](IMG_9209.jpeg)
 
-Diet Preference
+### 🛒 Grocery List
+![Grocery List](IMG_9210.jpeg)
 
-Generated Weekly Meal Plan
+### 🥕 Healthy Snack Suggestion
+![Snack Suggestion](IMG_9211.jpeg)
 
-Grocery Item Count
+### ⭐ Add Favorite Meal
+![Add Favorite](IMG_9212.jpeg)
 
-Grocery List
+### ✅ Favorite Confirmation
+![Favorite Confirm](IMG_9213.jpeg)
 
-Healthy Snack Suggestion
+### 📄 Open Meal Descriptions
+![Open File](IMG_9214.jpeg)
 
-Add Favorite Meal
+### 📖 Meal Description Window
+![Meal Details](IMG_9215.jpeg)
 
-Favorite Confirmation
+### 🌐 Open External Recipes
+![Open Website](IMG_9216.jpeg)
 
-Open Meal Descriptions
+### 🧃 Another Snack Suggestion
+![Another Snack](IMG_9219.jpeg)
 
-Meal Description Window
+### 🙌 Final Thank You Message
+![Thank You](IMG_9220.jpeg)
 
-Open External Recipes
-
-Recipes Website Opened
-
-Another Snack Suggestion
-
-Final Thank You Message
 
 🛠 Technologies Used
 
 Python 3
-
 Tkinter (GUI)
-
 Random
-
 Datetime
 
 File I/O
-
 Webbrowser module
 
 📁 Project Structure
@@ -103,29 +110,10 @@ Meal-Planner/
 ▶️ How to Run
 
 Install Python 3
-
 Ensure file1.txt is in the same directory
-
 Run the project:
 
 python3 projectPhrase3.py
-
-
-The GUI windows will pop up immediately.
-
-🚀 Future Enhancements
-
-Add calorie goals
-
-Add vegetarian / keto diet modes
-
-Add “export meal plan to PDF/CSV” feature
-
-Add dark mode
-
-Add a shopping cost estimator by store (Walmart, Costco, etc.)
-
 👩🏻‍💻 Author
-
 Benchaphorn (Irene) Cho
 GitHub: https://github.com/IRBCHO

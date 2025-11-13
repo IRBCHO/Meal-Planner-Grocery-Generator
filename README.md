@@ -46,7 +46,7 @@ Optionally opens mealime.com for more recipes.
 Below are the real screenshots from the app running on macOS:
 
 User Name Input
-!{App Screenshorts](Screenshorts/IMG_9202.jpeg)
+!{App screenshorts](screenshorts/IMG_9202.jpeg)
 
 Budget Input
 

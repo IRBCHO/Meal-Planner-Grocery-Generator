@@ -54,8 +54,6 @@ This project demonstrates GUI development, file handling, data structures (lists
 
 Below are real screenshots from the app running on macOS:
 
-> 💡 Tip: Replace each image name with the correct one if needed.
-
 ![User Name Input](./IMG_9202.jpeg)
 ![Budget Input](./IMG_9204.jpeg)
 ![Diet Preference](./IMG_9205.jpeg)
@@ -96,39 +94,3 @@ Meal-Planner-Grocery-Generator/
 │── IMG_9205.jpeg
 │── ...
 
-
-That alone will fix the messy paragraphs and actually show your screenshots inside the README.
-
----
-
-## 3️⃣ Step 2 – Tidy how the repo itself looks
-
-Right now all your JPEGs sit in the root. That’s fine functionally, but visually it looks messy for recruiters.
-
-**Goal:** keep code clean at the top; tuck screenshots away.
-
-### Steps
-
-1. On the main repo page, click **“Add file → Create new file”**.
-2. Name it `screenshots/.gitkeep` (this will create a folder called `screenshots`).
-3. Go back to the file list.
-4. For each `IMG_92xx.jpeg`:
-   - Click the file → click **“…” → “Move”** (or “Edit” then change path depending on UI).
-   - Change the path from `IMG_9202.jpeg` to `screenshots/IMG_9202.jpeg`.
-   - Commit the move.
-5. After moving them, update the image paths in README from  
-   `![User Name Input](./IMG_9202.jpeg)`  
-   to  
-   `![User Name Input](./screenshots/IMG_9202.jpeg)`  
-   then commit again.
-
-Now your root will show just:
-
-- `projectPhrase3nene.py`
-- `file1.txt`
-- `favorite.txt`
-- `README.md`
-- `screenshots/` folder
-
-
-  python3 meal_planner.py

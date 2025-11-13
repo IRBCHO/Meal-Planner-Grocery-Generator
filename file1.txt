@@ -1,0 +1,51 @@
+Meal: Spaghetti
+Nutrition Facts: 600 kcal, 20g protein, 75g carbohydrates, 10g fat.
+Benefits: Spaghetti provides energy from complex carbohydrates, Ground beef is a rich source of protein and iron,Tomato sauce is high in antioxidants like lycopene.
+
+Meal: Salad
+Nutrition Facts: 350 kcal, 5g protein, 15g carbohydrates, 10g fat.
+Benefits: Lettuce supports hydration and is low in calories, tomatoes are packed with vitamin C and antioxidants, Cucumbers are hydrating and rich in potassium.
+
+Meal: Tacos
+Nutrition Facts: 450 kcal, 18g protein, 40g carbohydrates, 15g fat.
+Benefits: Taco shells provide dietary fiber, Ground beef is a great source of protein, Cheese is rich in calcium for strong bones.
+
+Meal: Curry
+Nutrition Facts: 700 kcal, 30g protein, 25g carbohydrates, 45g fat.
+Benefits: Chicken is high in lean protein, Coconut milk supports heart health and provides healthy fats, Basil is anti-inflammatory and aids digestion.
+
+Meal: Fried Rice
+Nutrition Facts: 550 kcal, 12g protein, 70g carbohydrates, 15g fat.
+Benefits: Rice is a good source of energy, Eggs provide high-quality protein and vitamins, Soy sauce contains antioxidants and enhances flavor.
+
+Meal: Grilled Salmon
+Nutrition Facts: 400 kcal, 35g protein, 0g carbohydrates, 20g fat.
+Benefits: Salmon is rich in omega-3 fatty acids for brain health, Lemon aids digestion and boosts vitamin C intake, Olive oil is heart-healthy with monounsaturated fats.
+
+Meal: Vegetable Stir-fry
+Nutrition Facts: 300 kcal, 8g protein, 25g carbohydrates, 10g fat.
+Benefits: Broccoli is a great source of vitamin K and fiber, Carrots are rich in beta-carotene for eye health, Garlic boosts immunity and has antibacterial properties.
+
+Meal: Lasagna
+Nutrition Facts: 800 kcal, 25g protein, 90g carbohydrates, 30g fat.
+Benefits: Lasagna sheets provide energy from complex carbohydrates, Cheese is high in calcium and protein, Tomato sauce contains antioxidants like lycopene.
+
+Meal: Eggs Benedict
+Nutrition Facts: 550 kcal, 20g protein, 30g carbohydrates, 35g fat.
+Benefits: Eggs are an excellent source of protein and choline, Ham provides additional protein and B vitamins, Hollandaise sauce contains healthy fats and vitamins.
+
+Meal: Fruit Parfait
+Nutrition Facts: 300 kcal, 8g protein, 45g carbohydrates, 5g fat.
+Benefits: Yogurt supports gut health with probiotics, Granola provides dietary fiber and sustained energy, Mixed fruit is high in vitamins and antioxidants.
+
+Meal: Tofu Scramble
+Nutrition Facts: 250 kcal, 20g protein, 10g carbohydrates, 10g fat.
+Benefits: Tofu is an excellent plant-based protein source, Vegetables add vitamins and minerals, Spices enhance flavor and digestion.
+
+Meal: Sandwich
+Nutrition Facts: 500 kcal, 20g protein, 35g carbohydrates, 20g fat.
+Benefits: Bread provides energy from carbohydrates, Eggs are a high-quality protein source, Bacon adds flavor and provides B vitamins.
+
+Meal: Scrambled Eggs
+Nutrition Facts: 250 kcal, 12g protein, 2g carbohydrates, 18g fat.
+Benefits: Eggs are rich in protein and choline, Butter adds flavor and provides fat-soluble vitamins, A quick and satisfying breakfast option.

@@ -100,17 +100,18 @@ Optionally opens **mealime.com** for more recipes.
 
 ## 📁 Project Structure  
 
-
 Meal-Planner-Grocery-Generator/
-│── projectPhrase3nene.py       # Main application file
-│── file1.txt                   # Meal descriptions database
-│── favorite.txt                # Stores user favorite meals
-│── README.md                   # Project documentation
-│── IMG_9202.jpeg               # Screenshots
-│── IMG_9204.jpeg
-│── IMG_9205.jpeg
-│── ... (other images)
+│── meal_planner.py          # Main application file
+│── file1.txt                # Meal descriptions database
+│── favorite.txt             # Stores user favorite meals
+│── README.md                # Project documentation
+│── screenshot/              # Application screenshots
+│     ├── IMG_9202.jpeg
+│     ├── IMG_9204.jpeg
+│     ├── IMG_9205.jpeg
+│     ├── ...
 
+---
 
 ## How to Run
 1. Install Python 3  

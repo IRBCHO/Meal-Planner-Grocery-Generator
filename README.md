@@ -30,7 +30,7 @@ This project demonstrates GUI development, file handling, dictionaries, randomiz
 ### ✅ Healthy Snack Suggestions  
 Randomly recommends a healthy snack for the day.
 
-### ✅ Favorite Meals
+### ✅ Favorite Meals  
 - Add favorite meals  
 - Auto-saves to **favorite.txt**
 
@@ -99,7 +99,6 @@ Optionally opens **mealime.com** for more recipes.
 ---
 
 ## 📁 Project Structure  
-
 Meal-Planner-Grocery-Generator/
 │── meal_planner.py # Main Python script
 │── file1.txt # Meal descriptions
@@ -108,12 +107,41 @@ Meal-Planner-Grocery-Generator/
 │── README.md # Documentation
 
 
+---
+
 ## ▶️ How to Run
 
 ### 1. Install Python 3  
-Download from: https://www.python.org/downloads/
+Download Python here: https://www.python.org/downloads/
 
 ### 2. Clone the repository  
 ```bash
 git clone https://github.com/IRBCHO/Meal-Planner-Grocery-Generator.git
 cd Meal-Planner-Grocery-Generator
+3. Ensure file1.txt is in the same folder as the script
+
+This file is required for meal descriptions.
+
+4. Run the program
+python3 meal_planner.py
+
+👩🏻‍💻 Author
+
+Benchaphorn (Irene) Cho
+GitHub: https://github.com/IRBCHO
+
+
+---
+
+# 🎉 You’re done!
+Your README will now look **clean, structured, professional**, and recruiter-ready.
+
+If you want, I can also help you:
+
+✅ Write a strong project description for your **resume**  
+or  
+✅ Add a “Future Enhancements” section  
+or  
+✅ Add beautiful badges for Python, Tkinter, etc.
+
+Just tell me!
